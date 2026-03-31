@@ -1,118 +1,140 @@
-<!-- 🔥 CUSTOM AI BANNER -->
+<!-- 🧠 FUTURISTIC AI BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=ANUJ%20WAGMORE&fontSize=48&fontColor=00F7FF&animation=twinkling&desc=Machine%20Learning%20Engineer%20in%20Progress&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:00F7FF&height=260&section=header&text=ANUJ%20WAGMORE&fontSize=50&fontColor=00F7FF&animation=blinking&desc=Building%20the%20Future%20with%20AI&descAlignY=70" />
 </p>
 
+<!-- ⚡ NEON INTRO -->
+
+<h1 align="center">⚡ AI Engineer in Progress</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&lines=AI+%7C+ML+Explorer;Building+Real+Projects;Future+ML+Engineer;Consistency+%3D+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;Deep+Learning+Explorer;Real+World+Builder;Consistency+Over+Motivation" />
 </p>
 
 ---
 
-## 🧬 Identity
+<!-- 🧬 IDENTITY BLOCK -->
 
-```yaml
+## About Me
+
+```yaml id="z2kq0y"
 Name: Anuj Wagmore
-Role: 2nd Year BTech Student
-Focus: Machine Learning | AI | Deep Learning
-Goal: Become a top Machine Learning Engineer
-Approach: Learn → Build → Share → Repeat
+Role: BTech (2nd Year)
+Specialization: Artificial Intelligence & Machine Learning
+Mission: Build intelligent systems that solve real-world problems
+Status: Learning | Building | Scaling
 ```
 
 ---
 
-## 🚀 Featured Projects
+<!-- 🚀 PROJECT SHOWCASE CARDS -->
+
+## 🚀 Project Showcase
 
 ### 🧠 AI Task Manager
 
-🔹 Smart task prioritization using Machine Learning
-🔹 Tech: Python, Pandas, ML
-🔗 [Live Demo](#) | [Source Code](#)
+> Intelligent task prioritization system using Machine Learning
+> 🛠 Tech: Python, Pandas, ML
+> 🔗 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
-### 📊 Data Analysis Dashboard
+### 📊 Data Insight Engine
 
-🔹 Converts raw data into insights
-🔹 Tech: Python, Visualization
-🔗 [Live Demo](#) | [Source Code](#)
-
----
-
-### 🛒 Local E-Commerce Platform
-
-🔹 Grocery + food delivery system (Blinkit-style idea)
-🔹 Tech: Full Stack
-🔗 [Live Demo](#) | [Source Code](#)
+> Transforming raw datasets into actionable insights
+> 🛠 Tech: Python, Matplotlib
+> 🔗 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
-### 🌐 Portfolio Website
+### Personal-Expenses-Tracer
 
-🔹 Personal branding website
-🔗 [Visit Website](#)
+> Maintainance of your money
+> 🛠 Tech: Python
+> 🔗 [Live Demo](https://personal-expense-tracker-02.streamlit.app/) | [GitHub Repo](https://github.com/Anuj04432/Personal-Expense-Tracker)
 
 ---
 
-## 🧠 Tech Stack
+### 🌐 Personal Portfolio
+
+> Clean developer portfolio showcasing projects
+> 🔗 [Visit Website](https://anujwagmoreportfolio.netlify.app/)
+
+---
+
+<!-- 🧠 TECH STACK -->
+
+## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,html,css,git,github,mysql,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,tensorflow,pytorch&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Power
+<!-- 📊 ANALYTICS -->
+
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=000000" width="48%" />
 </p>
 
 ---
+
+<!-- 🏆 TROPHIES 
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=10" />
+</p>-->
+
+---
+
+<!-- 📌 LANGUAGES -->
+
+## 📌 Code DNA
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
 </p>
 
 ---
 
-## 📌 Languages
+<!-- 👁️ VISITOR COUNTER -->
+
+## 👁️ Profile Traffic
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00F7FF&style=flat-square" />
 </p>
 
 ---
 
-## 👁️ Visitors
+<!-- 🌐 SOCIAL -->
+
+## 🌐 Connect Protocol
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+<a href="www.linkedin.com/in/anuj-wagmore-874a883a7"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"></a>
 <a href="https://instagram.com/YOUR_LINK"><img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black"></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="mailto:anujwagmorw835@gmail.com"><img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"></a>
 </p>
 
 ---
 
-## 🧠 Mindset
+<!-- 🧠 PHILOSOPHY -->
 
-> "I don’t just aim to use AI — I aim to understand, build, and innovate with it."
+## 🧠 Core Philosophy
+
+> "I don’t follow trends in AI — I explore, build, and create my own path."
 
 ---
 
-## 🐍 Contribution Snake
+<!-- 🐍 SNAKE -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -120,6 +142,8 @@ Approach: Learn → Build → Share → Repeat
 
 ---
 
+<!-- 🔚 FOOTER -->
+
 <p align="center">
-  ⚡ Built with ambition by <b>Anuj Wagmore</b>
+  ⚡ Engineered by <b>Anuj Wagmore</b> | Future Machine Learning Engineer
 </p>

@@ -6,7 +6,7 @@
 
 <!-- ⚡ NEON INTRO -->
 
-<h1 align="center">⚡ Machine Learning EEngineer</h1>
+<h1 align="center">⚡ Machine Learning Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;Deep+Learning+Explorer;Real+World+Builder;Consistency+Over+Motivation" />

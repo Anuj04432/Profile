@@ -22,8 +22,8 @@
 Name: Anuj Wagmore
 Role: BTech (2nd Year)
 Specialization: Artificial Intelligence & Machine Learning
-Mission: Build intelligent systems that solve real-world problems
-Status: Learning | Building | Scaling
+Mission: Building applications that solve real-world problems
+Status: Learning | Building | Scaling | Problem Solving
 ```
 
 ---
@@ -68,7 +68,7 @@ Status: Learning | Building | Scaling
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,tensorflow,pytorch&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,numpy,pandas,tensorflow,pytorch&perline=6" />
 </p>
 
 ---
@@ -131,6 +131,7 @@ Status: Learning | Building | Scaling
 ## 🧠 Core Philosophy
 
 > "I don’t follow trends in AI — I explore, build, and create my own path."
+> "Upgrading myself according to the tech"
 
 ---
 
